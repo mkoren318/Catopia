@@ -1,5 +1,5 @@
 # 😸 Catopia Cat Cafe
-Catopia Cat Cafe is a fictitious company created for Codecademy’s Front End Engineer course. After the majority of the site was created, I discovered a company with the same name exists in Albuquerque, NM as of November 2023. The homepage does not have any relation to this establishment.  
+[Catopia Cat Cafe](https://mkoren318.github.io/Catopia/) is a fictitious company created for Codecademy’s Front End Engineer course. After the majority of the site was created, I discovered a company with the same name exists in Albuquerque, NM as of November 2023. The homepage does not have any relation to this establishment.  
 
 ## 🌐 Website Goal
 Catopia’s homepage aims to provide viewers with an overview of the company as well as info on its hours, ways to keep in touch, and how to contribute to the cause. It also incudes pictures of cats and kittens available for adoption along with their personality descriptions.
